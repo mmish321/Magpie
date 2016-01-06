@@ -22,4 +22,4 @@
 1.Keywords include: gun, sad, poop, feces, man, woman, "any cuss words", emotion words like angery, sad, happy, grouchy
 
 2. For cuss words, it will either say I don't understand or come back with an insult to you like if you said screw you, it would say "We use numbers"
-For emotion it will try and appeal to them like if ou said I'm sad, it will say "I'm sorry and I hope you feel better"
+For emotion it will try and appeal to them like if you said I'm sad, it will say "I'm sorry and I hope you feel better"
