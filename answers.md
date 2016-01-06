@@ -12,7 +12,7 @@
 
 	My brain is so large, it needed the additional room. Otherwise I could only say "blubba blubba blubba."
 
-4.It responded to asdfghjkl; by saying:
+4. It responded to asdfghjkl; by saying:
 
 	Sorry if I'm confused, but I had a sub-process running to trace your ip address (66.195.91.183) and it failed! Does this mean you are in a top secret facility?
 
