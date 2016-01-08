@@ -8,7 +8,7 @@ public class StringExplorer {
 
 	public static void main(String[] args) {
 		String sample = "The quick brown fox jumped over the lazy dog.";
-
+		String sample2 = " mother ";
 		// Demonstrate the indexOf method.
 		int position = sample.indexOf("quick");
 		System.out.println("sample.indexOf(\"quick\") = " + position);
@@ -19,7 +19,10 @@ public class StringExplorer {
 		System.out.println("After toLowerCase(), sample = " + sample);
 
 		// Try other methods here:
-
+	    int notFoundPsn = sample.indexOf("slow");
+	    System.out.println("sample.indexOf(\"slow\") = " + notFoundPsn);
+	    int difference = sample2.indexOf("mother", 0);
+	    System.out.println("sample.indexOf(\"mother\") = " + difference);
 	}
 
 }
