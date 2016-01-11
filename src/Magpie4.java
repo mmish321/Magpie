@@ -62,14 +62,7 @@ public class Magpie4 {
 		return response;
 	}
 
-	/**
-	 * Take a statement with "I want to <something>." and transform it into
-	 * "What would it mean to <something>?"
-	 * 
-	 * @param statement
-	 *            the user statement, assumed to contain "I want to"
-	 * @return the transformed statement
-	 */
+	
 	private String transformIWantToStatement(String statement) {
 		// Remove the final period, if there is one
 		statement = statement.trim();
